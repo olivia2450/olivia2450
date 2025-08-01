@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineering student at the University of Auckland who enjoys coding, collaborate and innovate.</h3>
 
 - 👨‍💻My previous projects includes:
-  1. [Sustainable Website](https://github.com/olivia2450/Sustainability-Website)
+  1. [Sustainability Website](https://github.com/olivia2450/Sustainability-Website)
 
   2. [Focus-Zone](https://github.com/olivia2450/Focus-Zone)
 
