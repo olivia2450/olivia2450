@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Olivia 👋</h1>
 <h3 align="center">A Software Engineering student at the University of Auckland who enjoys coding, collaborate and innovate.</h3>
 
-- 👨‍💻My previous projects includes: 1. [Sustainable Website](https://github.com/olivia2450/Sustainability-Website)
+- 👨‍💻My previous projects includes:
+  1. [Sustainable Website](https://github.com/olivia2450/Sustainability-Website)
 
-- 3. [Focus-Zone](https://github.com/olivia2450/Focus-Zone)
+  2. [Focus-Zone](https://github.com/olivia2450/Focus-Zone)
 
-- 2. [Pokestudy](https://github.com/olivia2450/Pokestudy)
+  3. [Pokestudy](https://github.com/olivia2450/Pokestudy)
 
 - 📫 How to contact me: **okus245@aucklanduni.ac.nz**
 
